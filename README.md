@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Danielwoodh" alt="Danielwoodh" /></a> </p>
 
-- 🔭 I'm currently working on **[Google Research - Identifying Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/data)**
+- 🔭 I'm currently working on: **[Google Research - Identifying Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/data)**
 
-- 💬 Ask me about **Engineering, Python & data science**
+- 💬 Ask me about: **Engineering, Python & data science**
 
-- 📫 How to reach me **Danielwoodhall12@gmail.com**
+- 📫 How to reach me: **Danielwoodhall12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
