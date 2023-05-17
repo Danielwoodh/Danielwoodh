@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A data scientist working on engineering problems</h3>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Danielwoodh" alt="Danielwoodh" /></a> </p>
+-->
 
 - 🔭 I'm currently working on: **[Google Research - Identifying Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/data)**
 
