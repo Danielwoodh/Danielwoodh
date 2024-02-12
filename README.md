@@ -4,9 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Danielwoodh" alt="Danielwoodh" /></a> </p>
 -->
 
-- 🔭 I'm currently working on: **[Google Research - Identifying Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/data)**
+- 🔭 I'm currently working on: **Computer-Vision Based enviornment reconstruction (V-SLAM)**
 
-- 💬 Ask me about: **Engineering, Python & data science**
+- 🌱 I’m currently learning: **[Bayesian Inference - Gaharamani](https://www.youtube.com/watch?v=kjo9Y_Vrgn4&feature=youtu.be)**
+
+- 💬 Ask me about: **Engineering, Python & Data Science**
 
 - 📫 How to reach me: **Danielwoodhall12@gmail.com**
 
